@@ -23,8 +23,7 @@ The project uses the Bank Marketing dataset from kaggle, which includes features
 - Matplotlib
 
 ## Files
-- `bank_subscription_prediction.ipynb` — Main machine learning implementation
-- `project_report.pdf` — Project documentation and report
+- `bank_subscription_prediction.py` — Python code for Decision Tree and KNN models
 
 ## Screenshots
 
