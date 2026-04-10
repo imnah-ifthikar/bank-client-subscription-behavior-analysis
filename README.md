@@ -26,6 +26,20 @@ The project uses the Bank Marketing dataset from kaggle, which includes features
 - `bank_subscription_prediction.py` — Python code for Decision Tree and KNN models
 
 ## Screenshots
+### Preprocessing / Encoding
+![Preprocessing / Encoding](screenshots/preprocessing-encoding.png)
+
+### Decision Tree Results
+![Decision Tree Results](screenshots/decision-tree-results.png)
+
+### KNN Results
+![KNN Results](screenshots/knn-results.png)
+
+### Decision Tree Visualization
+![Decision Tree Visualization](screenshots/decision-tree-visualization.png)
+
+### Performance Metrics Comparison
+![Performance Metrics Comparison](screenshots/performance-metrics-comparison.png)
 
 
 ## How to Run
