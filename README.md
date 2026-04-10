@@ -24,7 +24,8 @@ The project uses the Bank Marketing dataset from kaggle, which includes features
 
 ## Files
 - `bank_subscription_prediction.py` — Python code for Decision Tree and KNN models
-
+- `bank dataset for assignment.csv` — Dataset used for training and testing the models
+  
 ## Screenshots
 ### Preprocessing / Encoding
 ![Preprocessing / Encoding](screenshots/preprocessing-encoding.png)
@@ -45,6 +46,6 @@ The project uses the Bank Marketing dataset from kaggle, which includes features
 ## How to Run
 1. Open the notebook or Python file in Jupyter Notebook or any Python environment.
 2. Install the required libraries.
-3. Load the dataset.
+3. Make sure the dataset file `bank dataset for assignment.csv` is in the same folder.
 4. Run the preprocessing, training, and evaluation steps.
 5. Review the model outputs and visualisations.
